@@ -1,4 +1,4 @@
 sample-widget
 =============
 
-sample-widget
+This is sample widget
