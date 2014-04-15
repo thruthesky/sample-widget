@@ -1,8 +1,9 @@
 <?xml version="1.0"?>
 <config>
+	<type>widget</type>
+	<id>sample-widget</id>
 	<category>
 		<main>etc</main>
-		<sub>test</sub>
 	</category>
 	<name>
 		<en>Sample Widget</en>
